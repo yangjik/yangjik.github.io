@@ -1,13 +1,16 @@
 ---
 layout: page
-title: Memoirs, a free minimalist Jekyll blogging theme with modern design 
+title: Profile
 permalink: /about
 comments: false
 image: assets/images/screenshot.jpg
 imageshadow: true
 ---
 
-This website is a demonstration to see **Memoirs Jekyll theme** in action. The theme is compatible with Github pages, in fact even this demo itself is created with Github Pages and hosted with Github. 
+안녕하세요. 양직입니다.
 
-<a target="_blank" href="https://bootstrapstarter.com/jekyll-theme-memoirs/" class="btn btn-dark"> Get Memoirs for Jekyll &rarr;</a>
+메인 언어 : Pythony
+DB : Mysql
+
+<a target="_blank" href="https://github.com/yangjik/yang.study.git" class="btn btn-dark"> Yang Git &rarr;</a>
 
